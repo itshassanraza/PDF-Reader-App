@@ -220,8 +220,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Your Name/Organization**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@itshassanraza](https://github.com/itshassanraza)
+- Email: hassanmahammad577@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, questions, or suggestions:
 
-- Open an [GitHub Issue](https://github.com/yourusername/office_reader/issues)
+- Open an [GitHub Issue](https://github.com/itshassanraza/office_reader/issues)
 - Check existing documentation and FAQs
 - Contact via email for urgent matters
 
